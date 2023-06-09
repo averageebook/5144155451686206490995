@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "278989418311",
+    "project_id": "dkk-net-studio",
+    "storage_bucket": "dkk-net-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278989418311:android:f4fcf206ec817fad412662",
+        "android_client_info": {
+          "package_name": "com.dkknetstudio.laguarmada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278989418311-12tqes43htbngm4sf2cothpcqlmk2e82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPOuIgaia8Ky-I7tK7M58LsE9KqjwjYIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278989418311-12tqes43htbngm4sf2cothpcqlmk2e82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278989418311:android:db8817008f39ddce412662",
+        "android_client_info": {
+          "package_name": "com.dkknetstudio.lagulinkinpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278989418311-12tqes43htbngm4sf2cothpcqlmk2e82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPOuIgaia8Ky-I7tK7M58LsE9KqjwjYIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278989418311-12tqes43htbngm4sf2cothpcqlmk2e82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278989418311:android:a5cd72dd43c0a180412662",
+        "android_client_info": {
+          "package_name": "com.dkknetstudio.laguwaliband"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278989418311-12tqes43htbngm4sf2cothpcqlmk2e82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPOuIgaia8Ky-I7tK7M58LsE9KqjwjYIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278989418311-12tqes43htbngm4sf2cothpcqlmk2e82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
